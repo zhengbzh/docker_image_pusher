@@ -6,3 +6,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 #nexus3代理
 sonatype/nexus3
+#aliyun nacos
+nacos/nacos-server
